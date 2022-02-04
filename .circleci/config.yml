@@ -27,7 +27,7 @@ jobs:
       -run:
           name: backend/build
           command: |
-          npm run backend:build
+            npm run backend:build
       # - run:
       #     name: hello
       #     command: |
